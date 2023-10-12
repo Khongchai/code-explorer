@@ -12,6 +12,7 @@ I have seen many tutorials that go in-depth into how algorithms work or how to a
 ## Project Structure
 This is a long-term project, maybe I get a lot of contributions, or maybe I just do this for myself, either way, more stuff will be added, so it's not very practical to put everything into README.md like other lists. Here's a project structure that I think works for this format.
 
+```
 📦 Code-Explorer (root)
  ┣ 📂 resources
  ┃ ┣ 📂 algorithms
@@ -26,6 +27,7 @@ This is a long-term project, maybe I get a lot of contributions, or maybe I just
  ┃   ┗ ... (more design patterns)
  ┣ 📜 CONTRIBUTING.md
  ┗ 📜 README.md
+```
 
 
  All code samples and references should be inside of the `resources` folder. If you would like to contribute a new category, feel free! For now, what I have in mind are `algorithms`, `design-patterns`, and `math`.
