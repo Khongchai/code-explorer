@@ -18,7 +18,7 @@ This is a long-term project, maybe I get a lot of contributions, or maybe I just
  ┃ ┣ 📂 algorithms
  ┃ ┃ ┣ 📂 binary-heap
  ┃ ┃ ┃ ┣ 📜 dart-timer-queue.md
- ┃ ┃ ┃ ┗ 📜 java-scheduler-queue.md
+ ┃ ┃ ┃ ┗ 📜 java-scheduler-queue.md 
  ┃ ┃ ┗ ... (more algorithms)
  ┃ ┗ 📂 design-patterns
  ┃   ┣ 📂 flyweight
