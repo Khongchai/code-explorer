@@ -37,6 +37,8 @@ Not sure about this yet. Let's see.
 
 ## File Content
 
+Note: the explanation part is optional. Not everybody has the time nor the energy for such a lengthy explanation. Just a link to the source code suffice. Other people, or yourself, can contribute the explanation later.
+
 ### Data Strcutures and Algorithms
 
 If possible, the content of the file must begin with a link to the source code. For example, in `resources/algorithms/binary-heap/dart-timer-queue.md`, it might look like this
