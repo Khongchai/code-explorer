@@ -1,4 +1,4 @@
-# code-explorer 🌟🌟🌟
+# code-explorer 🚀🌟
 
 # Introduction
 Hey there, fellow code enthusiasts! 👋 Welcome to Code Explorer, your go-to place for diving into real-world, industry-grade code. 
